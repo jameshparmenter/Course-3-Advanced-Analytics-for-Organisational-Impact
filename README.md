@@ -4,7 +4,7 @@ In the ‘Analytics for Organisational Impact’ course, we applied Python and R
 
 Please find the <a href='https://github.com/jameshparmenter/Course-3-Advanced-Analytics-for-Organisational-Impact/blob/main/Parmenter_James_DA301_Assignment_Report.pdf%20%20(1).pdf'> full report above.</a>
 
-<b>Grade: 86% </b>
+<b>Grade: 74% </b>
 
 ## The Assignment:
 
