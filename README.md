@@ -88,7 +88,7 @@ The spread increases at higher values meaning predictions are more accurate at c
 
 
 <b>Patterns, Trends & Insights</b>
-To maximise Loyalty Points and thus sales:
+<br>To maximise Loyalty Points and thus sales:
 <ul>
 <li>TG should focus on customers with high income and remuneration</li>
 <li>Through linear regression analysis, we identified that a customer's age has the smallest impact</li>
