@@ -61,7 +61,7 @@ We started our regression process with a linear regression of the dependent vari
 We assess all the R-Squared values to find Remuneration and spending are the best values.
 
 <b>Python: Decision Tree</b>
-We built, fitted and pruned a decision tree to a max depth of three with an R-Squared of 0.914. Where it shows aspen and remuneration being significant in Loyalty Point increase.
+<br>We built, fitted and pruned a decision tree to a max depth of three with an R-Squared of 0.914. Where it shows aspen and remuneration being significant in Loyalty Point increase.
  
 <img width="400" alt="TG5" src="https://github.com/user-attachments/assets/4ada3aac-2606-4cff-a4f1-28fc20d2384d" />
 
