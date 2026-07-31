@@ -77,7 +77,9 @@ Finally, using python, we retrieve wordclouds from the tokenised text in ‘summ
 
 
 <b>RStudio: MLR</b>
-Within R - we applied the inverse square of age to adapt our MLR model later to improve fit. We visualise both the regression models, with a line of best fit. There is little to no distinction between the two regression scatterplots, however both show a positive correlation between predicted and actual values. The spread increases at higher values meaning predictions are more accurate at central values.
+</br>Within R - we applied the inverse square of age to adapt our MLR model later to improve fit. We visualise both the regression models, with a line of best fit. 
+There is little to no distinction between the two regression scatterplots, however both show a positive correlation between predicted and actual values.
+The spread increases at higher values meaning predictions are more accurate at central values.
 
 
 
@@ -87,8 +89,10 @@ Within R - we applied the inverse square of age to adapt our MLR model later to 
 
 <b>Patterns, Trends & Insights</b>
 To maximise Loyalty Points and thus sales:
-Tg should focus on customers with high income and remuneration
-Through linear regression analysis, we identified that a customer's age has the smallest impact
-The largest and likely most valuable portion of the customer base are the mid income and spending. 
-Via NLP we identified positive  sentiments and consistent reference to ‘Nan’ in reviews. With this, TG should market the games towards families where older generations can still participate.
-The next steps in the analysis will be to see if the Multiple Linear Regression can be better fit, testing more non-linear fitting to further improve the model and improve predictions. 
+<ul>
+<li>TG should focus on customers with high income and remuneration</li>
+<li>Through linear regression analysis, we identified that a customer's age has the smallest impact</li>
+<li>The largest and likely most valuable portion of the customer base are the mid income and spending.</li>
+<li>Via NLP we identified positive  sentiments and consistent reference to ‘Nan’ in reviews. With this, TG should market the games towards families where older generations can still participate.</li>
+<li>The next steps in the analysis will be to see if the Multiple Linear Regression can be better fit, testing more non-linear fitting to further improve the model and improve predictions. </li>
+</ul>
