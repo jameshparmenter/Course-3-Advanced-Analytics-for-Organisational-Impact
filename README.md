@@ -2,7 +2,9 @@
 
 In the ‘Analytics for Organisational Impact’ course, we applied Python and RStudio for commercially focussed causation analysis. These included running linear regression modules, regression decision trees, multiple linear regression modules, all alongside using sentiment analysis and clustering.
 
-<b>Grade: </b>
+Please find the <a href='https://github.com/jameshparmenter/Course-3-Advanced-Analytics-for-Organisational-Impact/blob/main/Parmenter_James_DA301_Assignment_Report.pdf%20%20(1).pdf'> full report above.</a>
+
+<b>Grade: 86% </b>
 
 ## The Assignment:
 
